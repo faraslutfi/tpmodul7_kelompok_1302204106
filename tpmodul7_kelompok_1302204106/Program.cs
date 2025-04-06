@@ -10,6 +10,7 @@ namespace tpmodul7_kelompok_1302204106
             DataMahasiswa1302204106.ReadJSON();
             DataMahasiswa21302204106.ReadJSON();
 
+
             Console.ReadLine(); // supaya console ga ketutup
         }
     }
